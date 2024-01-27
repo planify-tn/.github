@@ -1,5 +1,6 @@
-# Yo 👋
+# 👋 Hello
 
-Your go-to platform for innovative solutions in construction engineering consultancy, where we pave the way for seamless project management and design precision.
+PLANIFI is a comprehensive SAAS solution designed to streamline and revolutionize the construction industry's workflow. 
+Addressing common challenges faced in traditional workflows through innovative tools and functionalities.
 
-Planify-TN ✨ is created by [MAAK](https://github.com/maak-tn).
+PLANIFI ✨ is created and maintained by [MAAK CORP SUARL](https://maak.com.tn).
